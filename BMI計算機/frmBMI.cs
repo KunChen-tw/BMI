@@ -95,7 +95,6 @@ namespace BMI計算機
                 iResultIndex = 5;
             }
 
-
             strResult = strResultList[iResultIndex];
             colorResult = colorList[iResultIndex];
 
